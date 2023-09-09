@@ -1,7 +1,7 @@
 # Universidad Central del Ecuador
 # Facultad de Ingeniería en Geología, Minas, Petróleos y Ambiental
 # Carrera de Petróleos
-# Integrantes: Allison Donoso & Joseph Pacheco
+# Integrantes: Joseph Pacheco
 # Tema: Calculadora Petrolera
 
 def convertir_volumen(valor, desde_unidad, hacia_unidad):
